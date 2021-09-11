@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mkyong.examples.TestMagicBuilder" time="0.013" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mkyong.examples.TestMagicBuilder" time="0.008" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -16,7 +16,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64"/>
-    <property name="sun.java.command" value="/home/rathodrohith2mi/eclipse-workspace/Simplilearn/target/surefire/surefirebooter5041882256187873269.jar /home/rathodrohith2mi/eclipse-workspace/Simplilearn/target/surefire 2021-09-11T01-46-13_757-jvmRun1 surefire6255881049407711877tmp surefire_02961333323006911975tmp"/>
+    <property name="sun.java.command" value="/home/rathodrohith2mi/eclipse-workspace/Simplilearn/target/surefire/surefirebooter1951992635806738147.jar /home/rathodrohith2mi/eclipse-workspace/Simplilearn/target/surefire 2021-09-11T10-04-19_187-jvmRun1 surefire5305521660051921068tmp surefire_08887057222152061314tmp"/>
     <property name="surefire.test.class.path" value="/home/rathodrohith2mi/eclipse-workspace/Simplilearn/target/test-classes:/home/rathodrohith2mi/eclipse-workspace/Simplilearn/target/classes:/home/rathodrohith2mi/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.3.1/junit-jupiter-engine-5.3.1.jar:/home/rathodrohith2mi/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/home/rathodrohith2mi/.m2/repository/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.jar:/home/rathodrohith2mi/.m2/repository/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar:/home/rathodrohith2mi/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/home/rathodrohith2mi/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.3.1/junit-jupiter-api-5.3.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/rathodrohith2mi"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/rathodrohith2mi/eclipse-workspace/Simplilearn/target/surefire/surefirebooter5041882256187873269.jar"/>
+    <property name="surefire.real.class.path" value="/home/rathodrohith2mi/eclipse-workspace/Simplilearn/target/surefire/surefirebooter1951992635806738147.jar"/>
     <property name="sun.boot.class.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="1.8.0_282-8u282-b08-0ubuntu1~16.04-b08"/>
@@ -57,5 +57,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="testLucky" classname="com.mkyong.examples.TestMagicBuilder" time="0.007"/>
+  <testcase name="testLucky" classname="com.mkyong.examples.TestMagicBuilder" time="0.002"/>
 </testsuite>
