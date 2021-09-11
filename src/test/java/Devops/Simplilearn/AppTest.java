@@ -5,7 +5,7 @@ import org.junit.Test;
 public class AppTest 
 {
 	@Test
-	public static void printHello()
+	public void printHello()
 	{
 		System.out.println("Hello World.");
 	}
