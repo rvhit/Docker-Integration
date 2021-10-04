@@ -1,0 +1,2 @@
+I've created a maven project and uploaded to github that is integrated with 
+jenkins(Triggers for every commit) also Docker image is stored to Docker Hub everytime.

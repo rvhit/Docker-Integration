@@ -1,0 +1,5 @@
+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
+
+
+
+Docker deamon permission : sudo chmod 666 /var/run/docker.sock
