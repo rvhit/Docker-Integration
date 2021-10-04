@@ -2,7 +2,7 @@ Use Terraform to provision infrastructure
 
 Description:
 
-Nowadays, infrastructure automation is critical. We tend to put the most emphasis on software development processes, but infrastructure deployment strategy is just as important. Infrastructure automation not only aids disaster recovery, but it also facilitates testing and development.
+       Nowadays, infrastructure automation is critical. We tend to put the most emphasis on software development processes, but infrastructure deployment strategy is just as important. Infrastructure automation not only aids disaster recovery, but it also facilitates testing and development.
 
 Your organization is adopting the DevOps methodology and in order to automate provisioning of infrastructure there's a need to setup a centralised server for Jenkins.
 
@@ -12,12 +12,11 @@ Considering the Organizational requirement you are asked to automate the infrast
 
 Tools required: Terraform, AWS account with security credentials, Keypair
 
- 
 
 Expected Deliverables:
 
-Launch an EC2 instance using Terraform
+  Launch an EC2 instance using Terraform
 
-Connect to the instance
+  Connect to the instance
 
-           Install Jenkins, Java, and Python in the instance
+  Install Jenkins, Java, and Python in the instance
