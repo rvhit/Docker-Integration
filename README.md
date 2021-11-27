@@ -1,3 +1,3 @@
 # Docker-Integration
 
-Simplilearn Project - CI/CD pipeline 
+Simplilearn Projects - CI/CD pipeline 
